@@ -5,6 +5,7 @@ let countEl = document.getElementById('count-el')
 function increment() {
     count = count + 1
     // set countEl's innerText to the count
+    
     countEl.innerHTML = count
 }
 
