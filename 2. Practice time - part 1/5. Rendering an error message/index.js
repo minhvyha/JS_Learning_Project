@@ -3,3 +3,7 @@
 // that has the id="error".
 
 
+
+function error(){
+    document.getElementById('error').innerHTML = 'Something went wrong, please try again'
+}
