@@ -12,5 +12,5 @@ let messages = [
 
 let newMessage = "Same here!"
 
-
+messages.push(newMessage)
 
