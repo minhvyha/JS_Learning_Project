@@ -5,7 +5,7 @@ let hasHintsLeft = false
 // If so, run the showSolution() function
 
 function showSolution() {
-    if (hasSolvedChallenge === False && hasHintsLeft === False){
+    if (hasSolvedChallenge === false && hasHintsLeft === false){
         console.log("Showing the solution....")
     }
 }
