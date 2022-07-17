@@ -16,7 +16,7 @@ let cardsEl = document.getElementById("cards-el")
 let playerEl = document.getElementById('player-el')
 
 // 4. Render the player's name and chips in playerEl
-
+playerEl.textContent = player.name + ': $' + player.chips
 
 
 function getRandomCard() {
