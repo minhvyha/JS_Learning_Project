@@ -8,3 +8,6 @@ let airbnb = {
     price: 190,
     features: ['4 guests', '1 bedroom', '2 beds']
 }
+
+console.log(airbnb.name)
+console.log(airbnb.price)
